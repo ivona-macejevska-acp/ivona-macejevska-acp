@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning github
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with github
-- 💬 Ask me about not anythign else but github
+- 💬 Ask me about not anything else but github
 - 📫 How to reach me: Ring a bell 
 - 😄 Pronouns: something
 - ⚡ Fun fact: It's a fact
